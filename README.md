@@ -35,33 +35,3 @@ How to use this (Setup Instructions):
 11. Verify the configuration from master node.
 
       kubectl get nodes
-
-What are the files this repository has?:
-
-ansible.cfg - Ansible configuration file created locally.
-
-hosts - Ansible Inventory File
-
-env_variables - Main environment variable file where we have to specify based on our environment.
-
-settingup_kubernetes_cluster.yml - Ansible Playbook to perform prerequisites ready, setting up nodes, configure master node.
-
-configure_worker_nodes.yml - Ansible Playbook to join worker nodes with master node.
-
-clear_k8s_setup.yml - Ansible Playbook helps to delete entire configurations from all nodes.
-
-playbooks - Its a directory holds all playbooks.
-
-Who we are?
-
-We (learnitguide.net) provide you all complete step by step procedures, How to, Installations, configurations, Implementations, documentations, on-line trainings, easy guides on Linux, Cloud Computing, Openstack, Puppet, Chef, Ansible, Devops, Docker, Kubernetes, Linux clusters, VCS Cluster, Virtualizations and other technologies
-
-For more updates, stay connect with us on
-
-Youtube Channel : https://www.youtube.com/learnitguide
-
-Facebook : http://www.facebook.com/learnitguide
-
-Twitter : http://www.twitter.com/learnitguide
-
-Visit our Website : https://www.learnitguide.net
