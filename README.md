@@ -7,8 +7,7 @@ How to use this (Setup Instructions):
 4. Internet connection must be enabled in all nodes, required packages will be downloaded from kubernetes official yum repository.
 5. Clone this repository into your master node.
    
-   git clone https://github.com/learnitguide/kubernetes-and-ansible.git
-   
+   git clone https://github.com/TusherGhosh/kubernetes_ansible.git or download zip file kubernetes-and-ansible-master (only this file)
    once it is cloned, get into the directory
    
    cd kubernetes-and-ansible/centos
