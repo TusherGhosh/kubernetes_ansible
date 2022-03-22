@@ -9,7 +9,7 @@ How to use this (Setup Instructions):
    
    git clone https://github.com/TusherGhosh/kubernetes_ansible.git or download zip file kubernetes_ansible-main.zip (only this file)
    once it is cloned, get into the directory
-   
+   Open the zip folder then  
    cd kubernetes-and-ansible/centos
 
 6. There is a file "hosts" available in "centos" directory, Just make your entries of your all kubernetes nodes. 
